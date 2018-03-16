@@ -13,10 +13,9 @@
 .navbar-header {
   font-size: 18px;
   padding-right: 20px;
-
 }
 
-h1.jumbo-color {
+h1.jumbo-color a {
   color: darkred;
 }
 
@@ -34,5 +33,24 @@ h2.row-text {
 }
 
 #center-class {
-  padding-bottom: 100px;
+  padding-bottom: 10px;
+}
+
+#vacationpic {
+  width: 300px;
+
+}
+
+#dogblogpic {
+  width: 300px;
+}
+
+#cupcakepic {
+  width: 300px;
+}
+
+#me {
+  width: 150px;
+  float: right;
+  padding-right: 25px;
 }
