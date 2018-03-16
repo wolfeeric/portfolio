@@ -27,6 +27,14 @@ h2.row-text {
   color: Darkred;
 }
 
+.sample-image {
+  width: 300px;
+}
+
+.make-red {
+  color: red;
+}
+
 .footer {
   padding-bottom: 100px;
   background-color: #576368;
@@ -34,19 +42,6 @@ h2.row-text {
 
 #center-class {
   padding-bottom: 10px;
-}
-
-#vacationpic {
-  width: 300px;
-
-}
-
-#dogblogpic {
-  width: 300px;
-}
-
-#cupcakepic {
-  width: 300px;
 }
 
 #me {
