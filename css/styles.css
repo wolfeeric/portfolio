@@ -23,6 +23,10 @@ h1.jumbo-color a {
   color: darkred;
 }
 
+.title {
+  padding-left: 40px;
+}
+
 h2.row-text {
   color: Darkred;
 }
