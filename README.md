@@ -1,12 +1,12 @@
 # _vacation-site_
 
-#### _This is designed to practice our HTML, github, CSS, and bootstrap skills 3.15.18_
+#### _First project building a portfolio page 3.16.18_
 
 #### By _**Eric Wolfe**_
 
 ## Description
 
-_We made a vacation website in order to practice various bootstrap features such as grids, helpers and others._
+_Started construction on a page for displaying coding projects._
 
 ## Setup/Installation Requirements
 
@@ -18,7 +18,7 @@ _No known bugs as of today_
 
 ## Support and contact details
 
-_contact Jimmy McNamara or Eric Wolfe with any suggestions or feedback_
+_contact Eric Wolfe with any suggestions or feedback_
 
 ## Technologies Used
 
@@ -30,4 +30,4 @@ _Bootstrap_
 
 *Legal *
 
-Copyright (c) 2018 **_Jimmy and Eric_**
+Copyright (c) 2018 **_Eric Wolfe_**
