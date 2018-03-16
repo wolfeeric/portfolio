@@ -1,3 +1,38 @@
-.ul {
+.navbar {
+    background-color: #576368;
+}
+
+.navbar a {
+  color: darkred;
+  padding-right: 15px;
+}
+
+.jumbotron {
+    background-color: #576368;
+}
+.navbar-header {
+  font-size: 18px;
   padding-right: 20px;
+
+}
+
+h1.jumbo-color {
+  color: darkred;
+}
+
+.container p {
+  color: darkred;
+}
+
+h2.row-text {
+  color: Darkred;
+}
+
+.footer {
+  padding-bottom: 100px;
+  background-color: #576368;
+}
+
+#center-class {
+  padding-bottom: 100px;
 }
